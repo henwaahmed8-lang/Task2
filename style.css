@@ -97,7 +97,6 @@ body {
     transform: translateY(-2px);
 }
 
-/* Courses Section */
 .courses {
     padding: 80px 0;
     text-align: center;
@@ -173,7 +172,6 @@ body {
     margin-left: 5px;
 }
 
-/* Footer */
 footer {
     background-color: #ffffff;
     padding: 40px 0;
@@ -192,7 +190,6 @@ footer p {
     font-size: 13px;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .hero-content h1 {
         font-size: 36px;
